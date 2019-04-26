@@ -6,6 +6,7 @@ channels:
 dependencies:
  - python=3.6
  - ipython
+ - ipykernel==4.6.1
  - jupyter
  - notebook
  - ipywidgets
